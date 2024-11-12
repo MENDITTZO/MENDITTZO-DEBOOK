@@ -18,7 +18,7 @@
 
 ### :three: WebSocket, STOMP와 Redis를 활용한 독서 토론방
 실시간으로 생성과 참여가 가능한 독서 토론방을 이용할 수 있습니다.
-![websocket](https://github.com/user-attachments/assets/7c71cb4a-7347-4d49-b60b-bd3e541a2311)
+![websocket](https://github.com/user-attachments/assets/9f4e3eaa-da2b-4aee-99cc-d460a73057d7)
 
 
 ### :four: Gemini AI를 이용한 도서 추천
