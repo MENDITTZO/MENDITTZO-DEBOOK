@@ -101,19 +101,19 @@ public class User{
 
 # :four: 프로젝트 설계 문서
 ## 1. DDD 설계
-[DDD 설계 보기 - Miro](https://miro.com/app/board/uXjVLNZH4nw=/)
+:point_right: [DDD 설계 보기 - Miro](https://miro.com/app/board/uXjVLNZH4nw=/)
 
 ![ddd](https://github.com/user-attachments/assets/e94bbdbf-27a6-42fc-92e5-aaa010af290a)
 
 ## 2. UI 설계
-[UI 설계 보기 - Figma](https://www.figma.com/design/A5tRWd8g8sqnmVyvuK297V/%EC%B1%85%EB%A1%A0%EC%9D%84%EB%B0%95?node-id=0-1&node-type=canvas&t=ebZHyucA5oZIpbFN-0)
+:point_right: [UI 설계 보기 - Figma](https://www.figma.com/design/A5tRWd8g8sqnmVyvuK297V/%EC%B1%85%EB%A1%A0%EC%9D%84%EB%B0%95?node-id=0-1&node-type=canvas&t=ebZHyucA5oZIpbFN-0)
 ![FIGMA_1](https://github.com/user-attachments/assets/f1563efa-e8a0-4c00-ac6a-a6f27afb752c)
 ![FIGMA_2](https://github.com/user-attachments/assets/451ccc11-2272-47f8-9c12-477f5f09c260)
 ![FIGMA_3](https://github.com/user-attachments/assets/2e538877-bb64-4623-be0b-d80f6259f901)
 ![FIGMA_4](https://github.com/user-attachments/assets/731fdec8-44fb-4fa7-ac2a-e6c2dc528ac8)
 
 ## 3. 요구사항 명세서
-[요구사항 명세서](https://docs.google.com/spreadsheets/d/1oddc-l1flUAqUNzAMt8jnrshAidp2dHnd1w2Sz5JxWA/edit?gid=1147247037#gid=1147247037)
+:point_right: [요구사항 명세서](https://docs.google.com/spreadsheets/d/1oddc-l1flUAqUNzAMt8jnrshAidp2dHnd1w2Sz5JxWA/edit?gid=1147247037#gid=1147247037)
 ![요구사항 명세서 이미지](./asset/image/요구사항%20명세서%20캡쳐본.PNG)
 
 ## 4. ERD
