@@ -287,19 +287,6 @@ public class User{
 </div>
 </details>
 
- <details>
-   <summary>예시(여기에 필요한 제목 추가)</summary>
-   <div markdown="1">
-  
-## 작성하고 싶은 기능 제목(예시)
-    
-![원하는 제목 지정(그냥 이름 지정하는 것이므로 따로 신경 안쓰고 편하게 지으세요)](외부 이미지 링크든 내부에 넣어둔 이미지든 여기에 이미지 링크를 남기시면 됩니다.)   
-
-- 설명하고 싶은 내용 쓰기 여기까지 한세트 필요하면 복붙해서 더 쓰기
-    
-</div>
-</details>
-
 # CI/CD
 
 🔗[k8s Menifests Manage Repository ](https://github.com/MENDITTZO/k8s.git)  
